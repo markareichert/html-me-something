@@ -1,0 +1,15 @@
+p { 
+    font-family: Arial;
+    margin: 50px 50px 50px 50px;
+}
+.mark { 
+    color: blue;
+    text-align: center
+}
+#reichert { 
+    color: teal;
+}
+#UCity {
+    color: darkblue;
+    padding: 20px 20px 20px 20px;    
+}
